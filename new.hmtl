@@ -1,0 +1,316 @@
+<meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="description" content=""><meta name="author" content="">
+<title></title>
+<!-- Bootstrap Core CSS -->
+<link href="http://os_extranet_files_test.s3.amazonaws.com/40510_85102_bootstrap.css" rel="stylesheet" type="text/css" /><!-- Custom Fonts -->
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css" />
+<link href="http://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic,900,900italic" rel="stylesheet" type="text/css" /><!-- Plugin CSS -->
+<link href="http://os_extranet_files_test.s3.amazonaws.com/40510_85055_animate.css" rel="stylesheet" type="text/css" /><!-- Custom CSS -->
+<link href="http://os_extranet_files_test.s3.amazonaws.com/40510_85057_creative.css" rel="stylesheet" type="text/css" />
+<link href="http://os_extranet_files_test.s3.amazonaws.com/40510_85058_style.css" rel="stylesheet" type="text/css" />
+<link href="http://os_extranet_images.s3.amazonaws.com/392681_original.png" rel="shortcut icon" /><!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries --><!-- WARNING: Respond.js doesn't work if you view the page via file:// --><!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]--><!-- Google Analytics --><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-74588605-2', 'auto');
+  ga('send', 'pageview');
+
+//Header 
+</script>
+<nav class="navbar navbar-default navbar-fixed-top" id="mainNav">
+<div class="container-fluid"><!-- Brand and toggle get grouped for better mobile display -->
+<div class="navbar-header"><button class="navbar-toggle collapsed" data-target="#bs-example-navbar-collapse-1" data-toggle="collapse" type="button"><span class="sr-only">Toggle navigation</span></button><a class="navbar-brand page-scroll" href="http://usg.case.edu/org/crew/home">CWRU Rowing</a></div>
+<!-- Collect the nav links, forms, and other content for toggling -->
+
+<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+<ul class="nav navbar-nav navbar-right">
+	<li><a href="http://usg.case.edu/org/crew/about">About Us</a></li>
+	<li><a href="http://usg.case.edu/org/crew/schedule">Schedule</a></li>
+	<li><a href="http://usg.case.edu/org/crew/news">News</a>
+	<ul class="dropdown-menu">
+		<li><a href="http://usg.case.edu/org/crew/news#archive" onclick="window.location.reload()">Team</a></li>
+	</ul>
+	</li>
+	<li><a href="http://usg.case.edu/org/crew/gallery">Gallery</a></li>
+	<li><a href="http://usg.case.edu/org/crew/alumni">Alumni</a></li>
+	<li><a href="http://usg.case.edu/org/crew/join">Recruiting</a></li>
+</ul>
+</div>
+<!-- /.navbar-collapse --></div>
+<!-- /.container-fluid --></nav>
+<!--News section-->
+
+<div id="os_content">
+<header class="small-header" id="news-header">
+<div class="header-content">
+<div class="header-content-inner">
+<h1>News</h1>
+</div>
+</div>
+</header>
+
+<section class="content-pane" id="news">
+<div class="container news-container">
+<div class="col-lg-12">
+<div class="row">
+<p style="padding-bottom:0px;"><span style="font-family:helvetica,arial,verdana,sans-serif;">An archive of old team results is included<a href="http://usg.case.edu/org/crew/archive#archive" target="_blank"> here</a>,&nbsp;for more results check out the spartan alumni archive<a href="http://www.spartanalumnirowing.org/SARA_results.html" target="_blank"> here.</a></span></p>
+
+<p style="padding-bottom:0px;">&nbsp;</p>
+
+<p dir="ltr"><b id="docs-internal-guid-d55c4079-844f-f1bd-1dd0-1332157b141f">Dad Vail&nbsp;Regatta</b></p>
+
+<p dir="ltr">May 11-12, 2018</p>
+
+<p>The CWRU rowing team raced three women&rsquo;s crews that this year&rsquo;s running of the Dad Vail Regatta. The Philadelphia regatta has been in existence since 1934 and is considered the small and mid-sized college championship regatta. The regatta hosts both varsity and club-status programs and is a true &ldquo;all-comers&rdquo; race. Case raced in the women&rsquo;s varsity 8+, women&rsquo;s varsity 4+ and women&rsquo;s novice 4+ with the varsity crews advancing to the third level finals and the WN4+ taking bronze.</p>
+
+<p>The regatta has attempted to become more inclusive and less random coming out of the heats. The organizers have begun to include more sculling events and this year added some adaptive events. In order to squeeze more racing into the two-day schedule, they&rsquo;ve moved many of the larger events to time trials on Friday morning.</p>
+
+<p>In the past, a crew may have been &ldquo;unlucky&rdquo; and placed in a fast heat and not advance. Conceptually, the third fastest boat in the entire regatta may not advance in a &ldquo;top 2 to advance&rdquo; format and that boat&rsquo;s season would be done Friday morning. The new time trial format allows for seeded semi-finals for the top 12 or 18 crews from the TT and then the remaining crews being placed in minor finals on Saturday. This format ensures crews get to race on both days with the down side being a short headrace-style procession in the TT to determine subsequent placing.</p>
+
+<p><br />
+<a href="http://www.spartanalumnirowing.org/gallery/index.php?/category/878" style="font-size: 1.1rem;"><img alt="" border="0" src="http://www.spartanalumnirowing.org/pics/team/Vails2018c.jpg" title="" /></a></p>
+
+<p>Both varsity crews advanced through the TT format. Only 17 crews entered the novice four so that event followed a traditional heat/final format. The women&rsquo;s novice four of Victoria Fan (b), Sam Magliato (2), Lindsay Kluender (3), Nicole Palmer (s) and Aleksa Sorgatz (c) took a commanding lead in their heat to beat crews from Drexel, Cincinnati and MIT. Their time was the fourth fastest overall coming out of the heats, but their winning performance placed them directly into the Saturday Grand Final.</p>
+
+<p>In the WN4+ final, the crew came out of the blocks fast leading the field for the better part of 1000m. The poise of the two fastest crews from the heats shown through, and walked on the Spartans through the 1500m pushing our women back to 3rd place and a bronze medal. Lafayette College took the Gold and Clemson University took silver. Before the race, the coaches stated that a time of 7:42 would be the &ldquo;stretch&rdquo; target based on all of the time coming out of the heats, and the Case women hit that number exactly!</p>
+
+<p><a href="http://www.spartanalumnirowing.org/gallery/index.php?/category/878"><img alt="" border="0" src="http://www.spartanalumnirowing.org/pics/team/Vails2018b.jpg" title="" /></a><br />
+<b><i>Women&#39;s Varsity 8+ posing with their lovely Pocock eight, the&nbsp;</i>Triple H.</b></p>
+
+<p>The top varsity women were boated into the varsity eight. The event ran a TT Friday morning with 12 crews advancing to the afternoon semi-final. CWRU missed out on the semis by 0.56 seconds to Middlebury College and were placed into the third level final. The WV8 line up was Emily Schnittman (s), Sarah Carlson (7), Emily Judge (6), Joyce Chu (5), Steph Collins (4), Dani Pezzuto (3), Ingrid Iverson (2), Katie Francissen (b) with Natalie Scherner coxing.</p>
+
+<p>Racing on Saturday in the 3rd final, the WV8 race became a drag race between our Spartans and the cadets of West Point. The parent/alumni tent was at the 1750m mark with great views of the last 500m. As the crews passed the tent, West Point had the edge, but a spirited final push placed the bow of the Triple H just ahead to claim victory by just over 1 second!</p>
+
+<p><a href="http://www.spartanalumnirowing.org/gallery/index.php?/category/878"><img alt="" border="0" src="http://www.spartanalumnirowing.org/pics/team/Vails2018d.jpg" title="" /></a><br />
+<b><i>Women&#39;s Varsity 4+ rowing through the Time Trial into the Semis!</i></b></p>
+
+<p>The JV women formed a four and raced in the varsity four event. This event also went to the TT format with 29 entrants. The crew of Madison Piccirillo (s), Anneliese Braunegg (3), Michaela Kus (2), Emmeline Pearson (b) with Maria Tompkins on the ropes finished with the 15th fastest time earning them a spot in the Friday afternoon semi-final.</p>
+
+<p>The WV4+ semi-final was stacked, and Case was the only club-status school in their semi. The crew finished in a time of 7:57 to finish 5th placing them in the third-level on Saturday. The crew couldn&rsquo;t quite hang onto the sterns of Drexel, Boston U, St. Joe&rsquo;s and UMass &ndash; all very top notch varsity programs. In the third level final, Case finished in fourth (16th overall) while trading blows in the next lane with the University of Chicago who took third.</p>
+
+<p>The great news for the program is that the squad is young. The coaching staff is only losing a few folks to graduation, and the majority of the team is made up of sophomores and a strong novice squad behind them. We&rsquo;ll see you on the water next year!</p>
+
+<p><a href="http://www.spartanalumnirowing.org/gallery/index.php?/category/878"><img alt="" border="0" src="http://www.spartanalumnirowing.org/pics/team/Vails2018e.jpg" title="" /></a><br />
+<b><i>Coaches Rachel, Aaron &amp; Steph</i></b></p>
+
+<p>Friday night the students and a bunch of parents all met up at the Penrose Diner for dinner. Due to the cancellation of the alumni regatta dinner this year, we presented the winner of the Spartan of the Year award to Emily Schnittmann at this dinner too. During both days SARA hosted a tent with donuts and coffee for alumni and parents. We&rsquo;ve now hosted a tent for a number of years, and we keep getting better and better placement along the shore. This year we were placed right at the 1750m with really great views of the racing and easy access to the concessions and grandstand. Please come next year!</p>
+
+<p>-Doug Rathburn, Spartan Alumni Rowing Association President&nbsp;</p>
+
+<table width="100%">
+	<tbody>
+	</tbody>
+</table>
+
+<p dir="ltr">&nbsp;</p>
+
+<p dir="ltr"><b>Redhawk Sprints&nbsp;</b></p>
+
+<p dir="ltr">April 14th&nbsp;</p>
+
+<p>The extended winter weather forced the cancellation of the Lubbers Cup in Michigan so&nbsp;<a href="https://sites.google.com/a/case.edu/rowing/home">CWRU Rowing</a>&nbsp;re-grouped quickly and entered the Redhawk Sprints hosted by&nbsp;<a href="https://www.murowing.com/">Miami University</a>&nbsp;in Oxford, Ohio. The weather proved on regatta day proved to be rowable, but ended up being quite cold with rain all day. Case availed themselves well placing all-but-one boat in the final and the women sweeping their events in convincing fashion.</p>
+
+<p>The regatta, held on Acton Lake in Hueston Woods State Park, hosted 7 clubs from Ohio plus Wheaton from Chicago. The format consisted of heats in each boat class then 4-boat finals later in the day. Racing was compressed to assure completion before some forecasted weather arrived that cancelled many other regattas throughout the Midwest.</p>
+
+<p><img alt="" border="0" src="http://www.spartanalumnirowing.org/pics/team/RedHawk2018.jpg" title="" /><br />
+<i><b>Team Photos at the 2018 Redhawk Sprints in Oxford, Ohio</b></i></p>
+
+<p>The women&#39;s squad fielded two varsity eights and a novice four. Each of the three crews won their respective heats by open water. Then the varsity and JV eight took first and second in the final pushing Ohio State into third by open water. The margin from our varsity to Ohio State was over 25 seconds! The novice four crushed their heat and then went onto win their final by 42 seconds over Cincinnati with Ohio State and Cleveland State in third and fourth, respectively.</p>
+
+<p>On the men&#39;s side, Case boated a varsity 8, varsity 4 and a novice 4. The only competition for our novice crew, Xavier, scratched so the coaches through the crew in with the varsity races. In the heats for the fours, our varsity crew took first and advanced while our novices finished out of the money in fourth behind Ohio State, Cincinnati and Dayton. The men&#39;s varsity 8 took their heat easily to advance.</p>
+
+<p>The men did not fare as well in the finals with the MV8 finishing second to Ohio State by three seats. Ohio State was clearly holding something in reserve since our boys beat them easily in the heats. The MV4 finished fourth overall (out of 11 entrants) and 28 seconds off the pace of Ohio State.</p>
+
+<p dir="ltr">-Doug Rathburn, Spartan Alumni Rowing Association President&nbsp;</p>
+
+<p dir="ltr">&nbsp;</p>
+
+<p dir="ltr"><b>Buffalo Scrimmage&nbsp;</b></p>
+
+<p dir="ltr">March 31st&nbsp;</p>
+
+<p><img src="http://os_extranet_images.s3.amazonaws.com/454358_original.jpg" style="height: 394px; width: 700px; margin: 5px 10px; float: left;" /></p>
+
+<p>The University at Buffalo travelled to Cleveland to race against CWRU on the Cuyahoga River. Due to freezing and windy conditions, the racing venue was changed from Aurora Lake to Cleveland.&nbsp;Buffalo brought 4 varsity women in their newly formed club team, the UB Women&#39;s D1 program having been eliminated last year. They also brought 8 varsity men, electing to leave their novices at home.&nbsp;The race course agreed upon was from the far end of the Turning Basin heading downstream, concluding at Marathon Bend. Although this is a bit of a hike to get to the starting line, it was agreed by the coaches that the athletes would get something out of the longer warmup.&nbsp;The first volley of racing was a WV 4+ from both CWRU and Buffalo, as well as a W2V4+ from CWRU. On the men&#39;s side, there were MV4+s from CWRU and Buffalo, and 2 M2V4+s from both squads as well. The numerous coaches and crews launched and headed upstream.&nbsp;&nbsp; Once rounding the turn at Marathon Bend, the flotilla was greeted by an enormous debris field. The crews picked through it, emerging to a clear turning basin. The first patch of racing was held downstream, a 700m sprint from just upriver of the Basin through to I-490. In every matchup, CWRU bested UBuffalo:&nbsp;</p>
+
+<p>700m Sprint, Upper Cuyahoga to I-490, Downstream</p>
+
+<p>Women&#39;s 4+s: 1) CWRU A; 2) CWRU B; 3) UBuffalo</p>
+
+<p>Men&#39;s Varsity 4+s: 1) CWRU; 2) UBuffalo</p>
+
+<p>Men&#39;s 2nd Varsity 4+s: 1) CWRU; 2) UBuffalo</p>
+
+<p>After that brief piece, the flotilla picked through the debris downriver, and lined up again for a 2,200m race around the Cuyahoga&#39;s turns going from the West 3rd Street Bridge to the British Street Bridge. The races went Women&#39;s 4+s / Men&#39;s 2V 4+s / Men&#39;s 1V 4+s. The turns and wake from motor launches created challenges that we ably met by the crews, the launches necessarily staying close because of cold water rules relating to safety. The outcome to the 2,200m piece were the same as the shorter 700m piece. Due to logistics of timing, while placements were captured, timing was only captured on the Women&#39;s Varsity 4+ races.&nbsp;</p>
+
+<p>WV4+ 2,200m, W3rd to British St., Downstream</p>
+
+<p>1) CWRU A - 9:44.64</p>
+
+<p>2) CWRU B - 9:52.65</p>
+
+<p>3) UBuffalo - 10:01.25</p>
+
+<p>Once the crews came back to the CRF boathouse, the coaches discussed going to a different racecourse on the river. A few coaches went to check on the Flats Racecourse, and it was determined to be a viable course.&nbsp;The Men&#39;s Varsity 8+s from UBuffalo and CWRU launched, with the CWRU Women&#39;s 1V8 set out to race the Men&#39;s 2V8+ from CWRU, and then the CWRU Women&#39;s 2V vs. CWRU Women&#39;s 3V 8+. The results were cleaner, as the measured stagger was easier to set up as crews raced from the NS1 bridge to the Cereal Bulk Foods Terminal.&nbsp; In the Men&#39;s Varsity 8+,&nbsp;Buffalo started with a 1+ length stagger advantage to compensate for the outside of the turn on a coin toss.&nbsp;Buffalo was permitted to take the inside of the turn lane if they could gain 1 length clear water ahead of Case before the turn for safety, after already being given the lead on the stagger. Despite the UBuffalo advantage, CWRU took off well, and was approximately 3/4 length ahead of Buffalo by the time they had to get lined up for the turn around the Nautica Theater. After capitalizing on the turn advantage, the CWRU Varsity Men walked away on the straight back to the CRF.&nbsp;</p>
+
+<p>Men&#39;s Varsity 8+, 1,300m NS1 to Bulk Foods, Upstream<br />
+CWRU: 4:12.7<br />
+UBuffalo: 4:26.0</p>
+
+<p>After this contest, the CWRU Women&#39;s 1V8+ raced the CWRU Men&#39;s 2V8+, the men besting the women by approximately 1 length.&nbsp; Lastly, the CWRU Women&#39;s 2V8+ raced the CWRU Women&#39;s 3V8+, with the Women&#39;s 2V8+ besting the 3V8+ by approximately 2 1/2 lengths.&nbsp;In all, good racing was had, and the squad is looking forward to seeing UBuffalo again at the Jim Schabb Regatta in Buffalo&nbsp;<span data-term="goog_1921323661" tabindex="0">in two weeks</span>.&nbsp;</p>
+
+<p>-Coach Aaron&nbsp;</p>
+
+<p style="padding-bottom:0px;">&nbsp;</p>
+
+<p dir="ltr"><b id="docs-internal-guid-d55c4079-844f-f1bd-1dd0-1332157b141f">Home Schools Regatta</b></p>
+
+<p dir="ltr">March 24th</p>
+
+<p dir="ltr"><img src="http://os_extranet_images.s3.amazonaws.com/453193_original.jpg" style="height: 281px; width: 500px; float: left; margin-left: 20px; margin-right: 20px;" />&nbsp;Case swept the&nbsp;Home Schools regatta taking&nbsp;first in all events. The course ran from just downriver of the Carnegie-Lorain bridge&nbsp;to just upriver of the foundry docks. The piece was around 1500 meters and was conducted as&nbsp;a timed head race&nbsp; with Coach Tim starting boats off of a racing start to head downriver. Some of the best times of the day came from the Men&#39;s Varsity 8+ boat finishing the course with a time of 4:57 and the Women&#39;s Varsity 8+ boat finishing with a time of 5:25. Focus now shifts towards our upcoming scrimmage against University of Buffalo at Aurora Lake.&nbsp;</p>
+
+<p dir="ltr">&nbsp;</p>
+
+<p dir="ltr">&nbsp;</p>
+
+<p dir="ltr">&nbsp;</p>
+
+<p dir="ltr"><b id="docs-internal-guid-d55c4079-844f-f1bd-1dd0-1332157b141f">Spring Training</b></p>
+
+<p dir="ltr">March 11th - 17th&nbsp;&nbsp;</p>
+
+<p dir="ltr"><img src="http://os_extranet_images.s3.amazonaws.com/452952_original.jpg" style="float: right; height: 333px; width: 600px; margin: 5px; border-width: 0px; border-style: solid;" /></p>
+
+<p dir="ltr">The team is returning today from a successful spring break training trip at Lake Laneir in Gainesville, Georgia. Thanks to coaches Aaron, Rachel and Steph as well as special appearance from SARA president Doug Rathburn the trip was very successful. During the first few days of the week, some challenging wind made technique drills difficult so the team stuck to some solid steady state with rows around 18k down the expansive course. Later in the week, conditions improved and the team was able to get in some solid technique drills and sprint pieces. The week was capped off with scrimmages against some fellow teams including New Hampshire, Ithaca&nbsp;and Marietta on the 2k course. Great finishes were seen from the Women&#39;s Varsity 8 beating Ithaca and the Men&#39;s Varsity 8 holding onto the varsity program Ithaca&nbsp;during a 1k piece. Hopefully the rest of the season will build off of this great start.&nbsp;</p>
+
+<p dir="ltr">&nbsp;</p>
+
+<p style="padding-bottom:0px;"><meta charset="utf-8" /></p>
+
+<p dir="ltr"><b id="docs-internal-guid-d55c4079-844f-f1bd-1dd0-1332157b141f">Head of the Hooch </b></p>
+
+<p dir="ltr">November 4th - 5th&nbsp;&nbsp;</p>
+
+<p dir="ltr"><img src="http://os_extranet_images.s3.amazonaws.com/448094_original.jpg" style="width: 900px; margin: 10px 130px; border-width: 0px; border-style: solid; height: 506px;" /></p>
+
+<p dir="ltr">Last weekend (November 4th-5th), the CWRU crew team travelled to Chattanooga, Tennessee to compete in the Head of the Hooch regatta. Also known as &ldquo;The Last of the Great Fall Regattas&rdquo;, the Head of the Hooch is the second largest fall regatta in the world, only outsized by the Head of the Charles. It draws competitors from all over the US and even Canada; almost 200 teams raced this year, and there were over 2,000 boats entered.</p>
+&nbsp;
+
+<p dir="ltr">CWRU Crew raced two boats - a Men&rsquo;s College and Club 8+ and a Women&rsquo;s College and Club 8+. The women placed first out of 28 in their race, beating out schools like Clemson, University of Florida, Georgia Tech, and University of Texas and garnering the team&rsquo;s first ever gold medal at Head of the Hooch. The men placed 10th out of 35, less than four seconds behind Ohio State and besting many larger schools like Texas, who was last year&rsquo;s winner, Georgia Tech, DePaul, and Emory as well as improving on their time from the previous year.</p>
+&nbsp;
+
+<p dir="ltr">This race marked the end of the fall season for CWRU Crew, who now will move indoors to begin winter training for the spring season in April and May.</p>
+
+<p dir="ltr">&nbsp;</p>
+
+<p dir="ltr"><meta charset="utf-8" /></p>
+
+<p dir="ltr"><b id="docs-internal-guid-d55c4079-8465-4f63-4a58-a0ac6c010899">Speakmon</b></p>
+
+<p dir="ltr">October 29th&nbsp;</p>
+
+<p dir="ltr"><img src="http://os_extranet_images.s3.amazonaws.com/448095_original.jpg" style="height: 601px; width: 900px; margin-left: 130px; margin-right: 130px;" /></p>
+
+<p dir="ltr">The novice squad ended their fall racing season with a trip to the 33rd annual Jack Speakmon Memorial Regatta in Columbus, Ohio on Sunday, October 29th. They traveled independently of the varsity, who had raced in Marietta on the previous day, but they managed to get well set up for their races with the help of novice coach Tim Marcovy and former rower and new coach Steph Merlino.</p>
+&nbsp;
+
+<p dir="ltr">The two novice crews consisted of a men&rsquo;s and women&rsquo;s 4+, and they managed to complete the 4500m course in 24:42.4 and 25:47.2, respectively. During the event, the women were awarded third place in an event with Cleveland State, Ohio State, John Carroll, and Indiana University/Purdue. Race officials later contacted the team to let us know that after a review of a timing error, it was decided that our women took silver. The men finished fourth in their event against two Ohio state entries and a John Carroll boat.</p>
+&nbsp;
+
+<p dir="ltr">The novices will now be integrated into training with the varsity as the winter conditioning season commences.</p>
+
+<p dir="ltr">&nbsp;</p>
+
+<p dir="ltr"><strong>Muskie Chase</strong></p>
+
+<p dir="ltr">October 29th&nbsp;</p>
+
+<p dir="ltr">CWRU Crew varsity rowers competed in the Muskie Chase in Marietta, Ohio on October 29th. This regatta takes place in two parts, the first is a 6000m headrace and the second is 3 500m sprints. The men&rsquo;s team put out a V8 and JV8, the women&rsquo;s team put out two 8+, in addition the women fielded two 4+.</p>
+
+<p dir="ltr">The&nbsp;6000m race saw the men place 5th and 6th behind Marietta, Cincinatti, Ohio State, and Dayton. The women placed 4th and 6th behind Dayton, Cincinnati, and Ohio State. The 500m sprint races were an interesting mix up to the usual regatta format. Notably the men&rsquo;s JV8 won all 3 of their sprints. The team was excited to be invited to this gathering of Ohio crews. Its was a great opportunity to go head to head with our peers.</p>
+</div>
+</div>
+
+<div class="col-lg-12"><span style="font-family:helvetica,arial,verdana,sans-serif;"><!--Head of the Cuyahoga--></span>
+
+<div class="row">
+<div class="news-item">
+<p><meta charset="utf-8" /></p>
+
+<h3 dir="ltr"><br />
+<meta charset="utf-8" /></h3>
+
+<p dir="ltr"><strong>Head of the Charles</strong></p>
+
+<p dir="ltr"><meta charset="utf-8" />October 21st - 22nd&nbsp;</p>
+
+<p dir="ltr"><img src="http://os_extranet_images.s3.amazonaws.com/448096_original.jpg" style="height: 500px; width: 749px; margin-left: 180px; margin-right: 180px;" /></p>
+
+<p dir="ltr">CWRU Crew sent a women&rsquo;s, and men&rsquo;s varsity four to the 53rd annual Head of the Charles. This is the world&rsquo;s largest regatta with 2,271 crews competing over the course of two days. The women&#39;s four of Emily Schnittman, &nbsp;Steph Collins, Ingrid Iversen, and Sarah Carlson &nbsp;with Natalie Scherner coxing finished in 16th place out of 53 in the Women&#39;s Club 4+ event. The women&#39;s finish position re-qualified the boat for next year&#39;s regatta -- the third time in a row for this event. The men&#39;s four of David Fulton, Luke Fakult, Matthew Hausladen, and Ryan Norchi &nbsp;with Elizabeth Tobin coxing finished 26th out of 40 finishers in the Men&rsquo;s Collegiate 4+ event, just barely missing requalification.</p>
+
+<p dir="ltr"><b id="docs-internal-guid-d55c4079-a091-c43e-66f1-e1ca72f5e4fd">&nbsp;</b><img src="http://os_extranet_images.s3.amazonaws.com/448098_original.jpg" style="height: 500px; width: 750px; margin-left: 180px; margin-right: 180px;" /></p>
+
+<p dir="ltr">The Head of the Charles was, as always, an exciting opportunity for CWRU Crew to mix it up with a number of varsity programs ( the women&rsquo;s finish had them ahead of 16 varsity crews). The team has sent at least one boat for the past three years, and looks forward to many more years of strong competition at this prestigious regatta.</p>
+
+<p dir="ltr">&nbsp;</p>
+
+<p dir="ltr"><b id="docs-internal-guid-d55c4079-a08b-0a6f-111c-5817ae890b94">Spartan-Tartan Dual</b></p>
+
+<p><span style="font-size:16px;">October 14th</span></p>
+
+<p>&nbsp;</p>
+
+<p dir="ltr"><img src="http://os_extranet_images.s3.amazonaws.com/448099_original.jpg" style="height: 450px; width: 800px; margin-left: 130px; margin-right: 130px;" /></p>
+
+<p dir="ltr">After several years of unsuccessful attempts, CWRU Crew and Carnegie Mellon University were finally able to go head to head in the &ldquo;Spartan-Tartan Dual&rdquo;. The two teams squared off on the familiar waters of the Cuyahoga on October 14th. Six races were held between men&rsquo;s and women&rsquo;s Varsity 8+, Varsity 4+, and Novice 4+. CWRU Crew took first in all varsity categories, while CMU won the novice races. Overall a great opportunity to foster friendly competition between two similar schools. Both teams look forward to making this scrimmage an annual event. &nbsp;</p>
+
+<p dir="ltr">&nbsp;</p>
+
+<p dir="ltr"><b id="docs-internal-guid-d55c4079-a08a-2a25-329d-62cb330044cb">Head of the Genesee</b></p>
+
+<p dir="ltr"><span style="font-size:16px;">October 7th</span></p>
+
+<p dir="ltr">&nbsp;</p>
+
+<p dir="ltr"><img src="http://os_extranet_images.s3.amazonaws.com/448100_original.jpg" style="height: 450px; width: 800px; margin-left: 130px; margin-right: 130px;" /></p>
+
+<p dir="ltr">CWRU Crew competed in the 29th annual Head of the Genesee in Rochester, New York on October 7th. Four boats were entered into the regatta: a men&rsquo;s V8 and a JV8 as well as a women&rsquo;s V8 and a V4. Both men&rsquo;s boats took 4th place in their respective races behind boats from Rochester Institute of Technology, &nbsp;Ithaca College, and Hamilton College. The women&rsquo;s V8 also took 4th place behind Hamilton College, Rochester Institute of Technology, and William Smith College. The women&rsquo;s V4 would have place 3rd behind SUNY Binghamton and University at Buffalo, but unfortunately a protest from another crew added 60 seconds to their time. This was an exciting regatta for the team as it found itself in the mix with a number of varsity programs. &nbsp;&nbsp;</p>
+
+<p dir="ltr">&nbsp;</p>
+
+<p dir="ltr"><meta charset="utf-8" /></p>
+
+<p dir="ltr"><b id="docs-internal-guid-d55c4079-a089-16d6-89b8-7518fe216a1a">Head of the Cuyahoga</b></p>
+
+<p><span style="font-size:16px;">September 16th&nbsp;</span></p>
+
+<p>&nbsp;</p>
+
+<p dir="ltr"><img src="http://os_extranet_images.s3.amazonaws.com/448097_original.jpg" style="height: 450px; width: 800px; margin-left: 130px; margin-right: 130px;" /></p>
+
+<p dir="ltr">CWRU Crew competed in the 22nd annual Head of the Cuyahoga on September 16th. The races took place on familiar ground: a winding 4,800m course along the Cuyahoga from the I-490 bridge downstream to Rivergate Park. The highlight of the day was the women&#39;s V8 and JV8 taking the gold and silver in their race against Penn State, Miami, John Carroll and Ohio U. Penn State took bronze 40 seconds behind the JV8 and close to two minutes behind the V8.</p>
+&nbsp;
+
+<p dir="ltr">The men&rsquo;s V8 took silver racing against Westerville High School Penn State, Miami, Ohio U and John Carroll. The men&rsquo;s V4 took silver behind the Western Reserve Rowing Association 4 who won the masters category at Canadian Henley the month before. A novice men&rsquo;s 4 rounded out the boats from CWRU Crew.</p>
+&nbsp;
+
+<p dir="ltr">This regatta was the kickoff for the Fall racing season season. CWRU Crew put on an excellent show despite having only returned to campus a few weeks before. The rest of the season looks promising. &nbsp;</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+<!-- jQuery --><script src="http://os_extranet_files_test.s3.amazonaws.com/40510_85065_jquery.js"></script><!-- Bootstrap Core JavaScript --><script src="http://os_extranet_files_test.s3.amazonaws.com/40510_85059_bootstrapjs.js"></script><!-- Plugin JavaScript --><script src="http://os_extranet_files_test.s3.amazonaws.com/40510_85063_jqueryeasing.js"></script><script src="http://os_extranet_files_test.s3.amazonaws.com/40510_85064_jqueryfittext.js"></script><script src="http://os_extranet_files_test.s3.amazonaws.com/40510_85067_wow.js"></script><!-- Custom Theme JavaScript --><script src="http://os_extranet_files_test.s3.amazonaws.com/40510_85062_creativejs.js"></script><script src="http://os_extranet_files_test.s3.amazonaws.com/40510_85066_myscript.js"></script><script type="text/javascript">
+		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+		</script><script type="text/javascript">
+		try {
+		var pageTracker = _gat._getTracker("UA-1975314-11");
+		pageTracker._setDomainName(".orgsync.com");
+		pageTracker._trackPageview();
+		} catch(err) {}</script>
