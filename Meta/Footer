@@ -1,0 +1,28 @@
+    <div class="pre-footer"></div>
+    <footer class="page">
+        <div class="container light text-faded text-center">
+            © 2016 CWRU Crew<br/>
+
+            <!-- Don't you even think about taking out this line -->
+            <!--Wouldn't dare. so sassy -->
+            Designed by Philip Smith
+        </div>
+    </footer>
+
+    <!-- jQuery -->
+    <script src="[[file:jquery]]"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="[[file:bootstrapjs]]"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="[[file:jqueryeasing]]"></script>
+    <script src="[[file:jqueryfittext]]"></script>
+    <script src="[[file:wow]]"></script>
+
+    <!-- Custom Theme JavaScript -->
+    <script src="[[file:creativejs]]"></script>
+    <script src="[[file:myscript]]"></script>
+
+</body>
+</html>
