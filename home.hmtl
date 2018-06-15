@@ -1,0 +1,49 @@
+<header>
+<div class="header-content">
+<div class="header-content-inner">
+<h1>Case Crew</h1>
+
+<hr />
+<p>The official home of the CWRU Rowing Team</p>
+<a class="btn btn-primary btn-xl page-scroll main-button" href="http://crew.case.edu/about">Find out more</a></div>
+</div>
+</header>
+
+<section class="content-pane" id="home">
+<div class="container">
+<div class="row">
+<div class="col-lg-8 col-lg-offset-2 text-center">
+<h2 class="section-heading">Welcome</h2>
+
+<p>We are a club rowing team open to all current undergrads, graduate students, and faculty/staff. If you are interested in rowing check out the links below for more information, or fill out the recruitment questionnaire for <a href="[[page:join]]">prospective rowers</a>.</p>
+</div>
+</div>
+&nbsp;
+
+<div class="row">
+<div class="container text-center">
+<div class="front-page-box col-md-4 col-md-offset-2">
+<div class="img-container"><a href="[[page:about]]"><img src="[[image:Team_Photo1]]" /></a></div>
+&nbsp;
+
+<h3 class="section-heading">About Us</h3>
+Find out about our organization, mission, our methods, and the results of our decades of rowing.<br />
+<br />
+<a href="[[page:about]]">Learn More &rarr;</a></div>
+
+<div class="front-page-box col-md-4">
+<div class="img-container"><a href="[[page:news]]"><img src="[[image:cropped_front2]]" /></a></div>
+&nbsp;
+
+<h3 class="section-heading">News</h3>
+Want to keep up to date with Case Crew news and results? Check out our news page for the latest information.<br />
+<br />
+<a href="[[page:news]]">Learn More &rarr;</a></div>
+</div>
+</div>
+
+<div class="row">
+<div class="container col-lg-8 col-lg-offset-3"><a class="twitter-timeline" data-widget-id="724464057961476096" href="https://twitter.com/cwrucrew">Tweets by @cwrucrew</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></div>
+</div>
+</div>
+</section>
