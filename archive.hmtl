@@ -1,0 +1,367 @@
+<meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="description" content=""><meta name="author" content="">
+<title></title>
+<!-- Bootstrap Core CSS -->
+<link href="http://os_extranet_files_test.s3.amazonaws.com/40510_85102_bootstrap.css" rel="stylesheet" type="text/css" /><!-- Custom Fonts -->
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css" />
+<link href="http://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic,900,900italic" rel="stylesheet" type="text/css" /><!-- Plugin CSS -->
+<link href="http://os_extranet_files_test.s3.amazonaws.com/40510_85055_animate.css" rel="stylesheet" type="text/css" /><!-- Custom CSS -->
+<link href="http://os_extranet_files_test.s3.amazonaws.com/40510_85057_creative.css" rel="stylesheet" type="text/css" />
+<link href="http://os_extranet_files_test.s3.amazonaws.com/40510_85058_style.css" rel="stylesheet" type="text/css" />
+<link href="http://os_extranet_images.s3.amazonaws.com/392681_original.png" rel="shortcut icon" /><!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries --><!-- WARNING: Respond.js doesn't work if you view the page via file:// --><!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]--><!-- Google Analytics --><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-74588605-2', 'auto');
+  ga('send', 'pageview');
+
+//Header 
+</script>
+<nav class="navbar navbar-default navbar-fixed-top" id="mainNav">
+<div class="container-fluid"><!-- Brand and toggle get grouped for better mobile display -->
+<div class="navbar-header"><button class="navbar-toggle collapsed" data-target="#bs-example-navbar-collapse-1" data-toggle="collapse" type="button"><span class="sr-only">Toggle navigation</span></button><a class="navbar-brand page-scroll" href="http://usg.case.edu/org/crew/home">CWRU Rowing</a></div>
+<!-- Collect the nav links, forms, and other content for toggling -->
+
+<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+<ul class="nav navbar-nav navbar-right">
+	<li class="dropdown" id="about-menu"><a class="dropdown-toggle" data-toggle="dropdown" href="http://usg.case.edu/org/crew/about" id="about-link">About Us</a>
+
+	<ul class="dropdown-menu">
+		<li><a href="http://usg.case.edu/org/crew/about#team" onclick="window.location.reload()">Team</a></li>
+		<li><a href="http://usg.case.edu/org/crew/about#sport" onclick="window.location.reload()">Rowing</a></li>
+		<li><a href="http://usg.case.edu/org/crew/about#boathouse" onclick="window.location.reload()">Boathouse</a></li>
+		<li><a href="http://usg.case.edu/org/crew/about#roster" onclick="window.location.reload()">Roster</a></li>
+		<li><a href="http://usg.case.edu/org/crew/about#contact" onclick="window.location.reload()">Contact</a></li>
+	</ul>
+	</li>
+	<li><a href="http://usg.case.edu/org/crew/schedule">Schedule</a></li>
+	<li><a href="http://usg.case.edu/org/crew/news">News</a>
+	<ul class="dropdown-menu">
+		<li><a href="http://usg.case.edu/org/crew/news#archive" onclick="window.location.reload()">Team</a></li>
+	</ul>
+	</li>
+	<li><a href="http://usg.case.edu/org/crew/gallery">Gallery</a></li>
+	<li><a href="http://usg.case.edu/org/crew/alumni">Alumni</a></li>
+	<li><a href="http://usg.case.edu/org/crew/join">Recruiting</a></li>
+</ul>
+</div>
+<!-- /.navbar-collapse --></div>
+<!-- /.container-fluid --></nav>
+<!--News section-->
+
+<div id="os_content">
+<header class="small-header" id="archive-header">
+<div class="header-content">
+<div class="header-content-inner">
+<h1>Archive</h1>
+</div>
+</div>
+</header>
+
+<section class="content-pane" id="news">
+<div class="container news-container">
+<div class="col-lg-12">
+<div class="row">
+<p style="padding-bottom:0px;"><span style="font-family:helvetica,arial,verdana,sans-serif;">For more results check out the alumni archive<a href="http://www.spartanalumnirowing.org/SARA_results.html" target="_blank"> here.</a></span></p>
+</div>
+</div>
+
+<div class="col-lg-12">
+<div class="row">
+<div class="news-item">
+<h3 dir="ltr"><b id="docs-internal-guid-cb7008fa-0457-9efd-d62d-190d3bef0b27">Novice Women Claim First-ever Big Boat MACRA Gold</b></h3>
+
+<p dir="ltr">&nbsp;</p>
+
+<p dir="ltr"><img src="http://os_extranet_images.s3.amazonaws.com/433419_original.jpg" style="float: left; height: 533px; width: 400px; margin: 10px;" /></p>
+
+<p dir="ltr"><span style="font-family:helvetica,arial,verdana,sans-serif;">April 30, 2017: The regional championship MACRA regatta was held this year on Harsha Lake just outside of Cincinnati again this year. Conditions were cool and overcast with a steady, stiff cross head wind. Rains overnight raised lake levels claiming some competitor&#39;s tents. Case entered six crews across five events with all crews making either the Grand or Petite finals.</span></p>
+
+<p dir="ltr"><br />
+<span style="font-family:helvetica,arial,verdana,sans-serif;">The women&#39;s novice 8+ event was final only, and the Case women blasted off the starting pontoons to a commanding lead and were never challenged. The final margin had them 35 seconds off of the second place crew from Miami. This performance comes after a similarly commanding result from a few weeks prior at Lubbers Cup where the novice women won both their dual races against regional powerhouses Grand Valley and Marquette. The line up was Ingrid Iversen (s), Sarah Carlson (7), Emily Judge (6), Steph Collins (5), Kirsten Wetzel (4), Crystal An (3), Katie Francissen (2) and Madison Piccirillo (b) with Natalie Scherner coxing.The team has never won a medal in an eight event at MACRAs. We&#39;ve won a few silvers in the four and golds in singles. The gold medal in the novice 8+ is a historic one for Case Crew and hopefully portends good things for years to come! The novice women weren&#39;t really pushed in the race and finished the stake boat, buoyed course into a stiff cross headwind in 7:15.5. For those of you out there in the know, this is a legit result. Period. Great job ladies!</span></p>
+
+<p dir="ltr"><br />
+<span style="font-family:helvetica,arial,verdana,sans-serif;">The varsity women were broken up into Varsity and JV fours with the Varsity crew winning their heat and finishing fourth overall in the Grand Final. The JV women grabbed the last qualifying spot in their heat and were able to finish 5th in the Petite final behind powerhouse Grand Valley and three varsity-status programs from Eastern Michigan, Charleston and Drake. This race marked the end of the collegiate career of Colleen Kennedy (3-seat V4+). She&#39;s been in a number of record setting boats for Case Crew over the last four years, and we wish her well. The novice women&#39;s squad is deep enough to also field a reserve 4+, and this crew finished second in their heat ahead of conference rivals UChicago and ultimately finished 6th in the Grand Final.</span></p>
+
+<p dir="ltr"><br />
+<span style="font-family:helvetica,arial,verdana,sans-serif;">Men&#39;s racing at MACRAs is unbelievably deep with most of the Grand Finalists in the eight also making Saturday afternoon appearances at Vails. If you want to be competitive in Philly you need to be competitive at MACRAs. The varsity men drew Michigan, Mercyhurst, Michigan State and Ohio State in their heat and finished behind them in that order to earn a spot in the Petite Final. In the Petite they finished 3rd and 9th overall behind Ohio State and DePaul.</span></p>
+
+<p dir="ltr"><br />
+<span style="font-family:helvetica,arial,verdana,sans-serif;">The coaching staff also fielded a JV 8+ comprised of a mix of varsity and novice rowers to test fitness and give championship racing experience to the novices. The crew was off the pace a bit finishing behind Michigan, Mercyhurst and Michigan State and ultimately finished 3rd in the Petite Final with a respectable 6:51 finish time<b>.</b></span></p>
+
+<p dir="ltr">&nbsp;</p>
+
+<p dir="ltr"><span style="font-family:helvetica,arial,verdana,sans-serif;"><span style="font-size:16px;">Race results for MACRA can be found <a href="http://www.spartanalumnirowing.org/results/SARA_MACRA17.html">HERE</a>.<br />
+<a href="http://www.spartanalumnirowing.org/pics/gallery/main.php?g2_itemId=58693">2017 MACRA Photo Gallery</a></span></span></p>
+&nbsp;
+
+<p>&nbsp;</p>
+
+<p><span style="font-family:helvetica,arial,verdana,sans-serif;">Written by Doug Rathburn</span></p>
+
+<p>&nbsp;</p>
+
+<p><span style="font-size:16px;"><span style="font-family:helvetica,arial,verdana,sans-serif;"><strong>Lubbers Invitational Regatta</strong></span></span></p>
+
+<p><span style="font-size:16px;"><span style="font-family:helvetica,arial,verdana,sans-serif;">April 8th and 9th&nbsp;</span></span></p>
+
+<p><img src="http://os_extranet_images.s3.amazonaws.com/433420_original.jpg" style="height: 400px; width: 600px; float: left; margin: 5px 8px;" /><span style="font-size:16px;"><span style="font-family:helvetica,arial,verdana,sans-serif;">&nbsp; &nbsp; &nbsp; The Lubbers regatta involves a round robin tournament with point values assigned to each race based on margins. There are three racing sessions (Saturday morning, Saturday afternoon and Sunday morning) where each boat races once per session in a dual style against 1 or two other boats. The fastest boat in each race is assigned a score of 0 and each subsequent boat after the first boat is given a point value based on their pace after the first boat. At the end of the three racing sessions the boat with the lowest score in a single category is the winner.</span></span></p>
+
+<p><span style="font-size:16px;"><span style="font-family:helvetica,arial,verdana,sans-serif;">&nbsp; &nbsp; &nbsp; &nbsp;This year CWRU Crew put in four entries: a Men&rsquo;s Varsity 8+, a Women&rsquo;s Varsity 4+, a Men&rsquo;s Novice 4+ and a Women&rsquo;s Novice 8+. After arriving late Friday night, the team woke up to sunny and slightly windy conditions which were a welcomed change in comparison to the freezing temperature last year. The morning saw great results for the Novice Women&rsquo;s eight who came in first with a substantial lead on Grand Valley. The WV4+ and the MN4+ both placed a close second place in their races. The Men&rsquo;s Varsity 8+ placed third dealing with some more winds earlier in the morning. In the afternoon winds picked up slightly but races continued on the same stretch. In the Women&rsquo;s Novice eight spirits were high and they continued their winning streak placing first again with a time of 7:04.3 more than 35 seconds ahead of Marquette. The MN4+ fought hard in their second race and came in with a time of 7:26.8 just 2 seconds behind Michigan State University. The WV4+ found some speed in the afternoon and placed first with a time of 7:52.5 and a substantial lead of 25 seconds over Eastern Michigan University and Perdue Freshman. Similarly, the Men&rsquo;s varsity eight stepped up their game in the afternoon and stole first place with a time of 6:21.2 over the Illinois crew.&nbsp;</span></span></p>
+
+<p><span style="font-size:16px;"><span style="font-family:helvetica,arial,verdana,sans-serif;">&nbsp; &nbsp; &nbsp; Sunday morning brought some extreme wind and made the conditions quite difficult to row in. Officials canceled the majority of races for Sunday after sending out a test run of the Varsity Women&rsquo;s Eight boats. Point totals were determined by races from the previous day and CWRU Crew had three 2<sup>nd</sup> places finishes for the WN8+, MN4+ and WV4+ categories. The MV8+ placed 7<sup>th</sup> overall.</span></span></p>
+
+<p dir="ltr"><span style="font-family:helvetica,arial,verdana,sans-serif;"><span style="font-size:16px;">Race results for Lubbers can be found <a href="http://www.spartanalumnirowing.org/results/SARA_Lubbers17.html">HERE</a>.<br />
+<a href="http://www.spartanalumnirowing.org/pics/gallery/main.php?g2_itemId=57960">2017 Lubers Photo Gallery</a></span></span></p>
+
+<p>&nbsp;</p>
+
+<p><span style="font-family:helvetica,arial,verdana,sans-serif;"><strong><span style="font-size:18px;">SUNY Invitational Regatta&nbsp;</span></strong></span></p>
+
+<p><span style="font-family:helvetica,arial,verdana,sans-serif;"><span style="font-size:16px;">April 1st, 2017</span></span></p>
+
+<p><img src="http://os_extranet_images.s3.amazonaws.com/430876_original.jpg" style="float: right; margin: 10px; width: 650px; height: 433px;" /></p>
+
+<p><span style="font-family:helvetica,arial,verdana,sans-serif;"><span style="font-size:16px;">&nbsp; &nbsp; &nbsp; &nbsp;The team traveled to the SUNY invitational regatta at Conesus Lake&nbsp;(Geneseo, NY) for the first time this year. The team faced some good competition against Geneseo, St. John Fisher College, Buffalo and Oswego. At the beginning of the day 12-15mph tail winds created a slight chop for competitors, but Case was able to persevere after having spent spring break in Alabama rowing in similar conditions. </span></span></p>
+
+<p><span style="font-family:helvetica,arial,verdana,sans-serif;"><span style="font-size:16px;">&nbsp; &nbsp; &nbsp; &nbsp;On the Women&#39;s side Case placed first in all events competed in. Including a time of 7:15 in the Women&#39;s novice eight category. In the Varsity Men&#39;s eight Case came in a close second behind Geneseo with a time of 6:23.2. The Men&#39;s novice boat, with a few rowers having just started on the water practice, captured first place with a time of 7:10.0.&nbsp;</span></span></p>
+
+<p><span style="font-family:helvetica,arial,verdana,sans-serif;"><span style="font-size:16px;">This was a great race overall and a good start to the spring season of 200 meter sprint racing.&nbsp;</span></span></p>
+
+<p dir="ltr"><span style="font-family:helvetica,arial,verdana,sans-serif;"><span style="font-size:16px;">Race results can be found <a href="http://www.spartanalumnirowing.org/results/SARA_SUNYInvite17.html">HERE</a>.<br />
+<a href="http://www.spartanalumnirowing.org/pics/gallery/main.php?g2_itemId=57820">Photos courtesy of Karl Hanafin</a></span></span></p>
+
+<p>&nbsp;</p>
+
+<p><span style="font-size:16px;"><span style="font-family:helvetica,arial,verdana,sans-serif;"><strong>Cleveland Homeschools</strong></span></span></p>
+
+<p><span style="font-size:16px;"><span style="font-family:helvetica,arial,verdana,sans-serif;">March 25<sup>th</sup> 2017</span></span></p>
+
+<p><span style="font-size:16px;"><span style="font-family:helvetica,arial,verdana,sans-serif;">&nbsp; &nbsp; &nbsp; The Homeschools regatta was held on the Cuyahoga river and this year was a dual between John Carrol and Case Western Reserve University. The race course was held in a dual format which is two boats side by side. The race also followed an interpretation of &ldquo;Oxbridge&rdquo; rules, which provides for safety as boats make turns. The overall course was approximately 1,500m and was run from the NS1 railroad bridge to the Merwin&rsquo;s Warf docks at Rivergate Park.</span></span></p>
+
+<p><span style="font-size:16px;"><span style="font-family:helvetica,arial,verdana,sans-serif;">&nbsp; &nbsp; &nbsp; The two lanes were determined by coin clip called by each club and staggers were assigned to each lane depending on the size of each boat. It was a good race by all, and CWRU claimed 1<sup>st</sup> in all pieces competed in.&nbsp;</span></span></p>
+
+<p>&nbsp;</p>
+
+<p><span style="font-size:16px;"><span style="font-family:helvetica,arial,verdana,sans-serif;"><strong>The Hammer Indoor Rowing Race</strong></span></span></p>
+
+<p><span style="font-size:16px;"><span style="font-family:helvetica,arial,verdana,sans-serif;">&nbsp; &nbsp; &nbsp; Case Crew dominated against competition again at the 28<sup>th</sup> running of the hammer Ergatta. This year the event was held in the DeCario Varsity Gym on John Caroll&rsquo;s campus. The well organized event saw Case take home 8 hammers in almost every event they entered. Gold hammers for the 1<sup>st</sup> place time and silver for a second-place time. The women&rsquo;s team had six athlete break 8 minutes with novice Sarah Carlson taking top honors with a time of 7L31.7! Colleen Kennedy took first in the Open Varsity race with a time of 7:44.9. The open light weight race saw Maria Tompkins finish second with a time of 8:02.7 one second off the first-place time. In the novice category for light weights Katie Francsisen took the top with a time of 8:20.8.</span></span></p>
+
+<p><span style="font-size:16px;"><span style="font-family:helvetica,arial,verdana,sans-serif;">&nbsp; &nbsp; &nbsp; The men&rsquo;s team similarly showed some speed and depth. The men had eight athletes break seven minutes with Matt Hausladen leading the way with a 6:29.3 to win the Open Men&rsquo;s category. Alumnus Doug Brubaker even took part in the race and placed fourth with a 6:41.8 in the open category. The fastest novice man was Tim Nehila with 6:55.3 to take second. The light weight men&rsquo;s squad had Andy Swyers take 5<sup>th</sup> in the Open event with 7:19.2.</span></span></p>
+
+<p><span style="font-size:16px;"><span style="font-family:helvetica,arial,verdana,sans-serif;">&nbsp; &nbsp; &nbsp; The last event of the day was the Sledgehammer event with is a 6x500m mixed relay. Case entered three squads which finished 2<sup>nd</sup>, 4<sup>th</sup> and 6<sup>th</sup>. The fastest Case relay team completed the 3k in 9:48.8 to take home the silver sledgehammer.</span></span></p>
+
+<p><span style="font-size:16px;"><span style="font-family:helvetica,arial,verdana,sans-serif;">Written by Aaron Marcovy, edited by Emmeline Pearson</span></span></p>
+
+<p>&nbsp;</p>
+
+<p><span style="font-family:helvetica,arial,verdana,sans-serif;"><strong><span style="font-size:18px;">Head of the Hooch</span></strong></span></p>
+
+<p><span style="font-family:helvetica,arial,verdana,sans-serif;"><span style="font-size:16px;">November 5th, 2016</span><meta charset="utf-8" /></span></p>
+
+<p dir="ltr"><span style="font-family:helvetica,arial,verdana,sans-serif;"><span style="font-size:16px;"><img src="http://os_extranet_images.s3.amazonaws.com/423249_original.jpg" style="height: 450px; width: 600px; border-width: 0px; border-style: solid; margin: 8px; float: left;" /></span></span></p>
+
+<p dir="ltr"><span style="font-family:helvetica,arial,verdana,sans-serif;"><span style="font-size:16px;">Making history the women&rsquo;s team medaled for the first time ever when the Varsity 8+ placed second in the Women&rsquo;s College and Club eight category. The boat came in with a time of 17:32.2 &nbsp;just 10 seconds behind the rival Georgia tech boat that rowed the 5k course in a time of 17:22.8.</span></span></p>
+
+<p dir="ltr"><span style="font-family:helvetica,arial,verdana,sans-serif;"><span style="font-size:16px;">Similarly, the Men&rsquo;s Varsity 8+ fought hard and ended up placing 6th with a much improved time from their last jaunt down the course. The overall time was 16:23.6, which is less than a minute behind the first place crew from University of Texas. Some of the other main contenders in this race were &nbsp;University of Florida, Washington University in St. Louis and Georgia Tech.</span></span></p>
+
+<p dir="ltr"><span style="font-family:helvetica,arial,verdana,sans-serif;"><span style="font-size:16px;">The women&rsquo;s novice 8+ placed very well, especially considering that this was the first time that Case has sent a novice boat to this regatta. In the women&rsquo;s College and Club Novice 8+ category the boat placed well into the top half, coming in 12th out of 40 crews and finishing with a time of 19:48.1. This result was also impressive when the varsity programs competing in the race are considered, as the novice women&rsquo;s time actually gave them a third place finish out of the club teams that were entered.</span></span></p>
+
+<p dir="ltr"><span style="font-family:helvetica,arial,verdana,sans-serif;"><span style="font-size:16px;">It was a perfect day for racing in Chattanooga, Tennessee, with a strong downstream current and a limited head wind to help speed our crews down the course.&nbsp;Many&nbsp;parents and alumni came out to support as this was the last race for quite a few seniors who have been instrumental in the development of the team. They will&nbsp;all be greatly missed during the spring and for the years to come.</span></span></p>
+
+<p dir="ltr"><span style="font-family:helvetica,arial,verdana,sans-serif;"><span style="font-size:16px;">Race results for the Head of the Hooch can be found <a href="http://www.spartanalumnirowing.org/results/SARA_Hooch16.html">HERE</a>.<br />
+<a href="http://www.spartanalumnirowing.org/pics/gallery/main.php?g2_itemId=56862">2016 Head of the Hooch Photo Gallery</a></span></span></p>
+
+<p dir="ltr"><span style="font-family:helvetica,arial,verdana,sans-serif;"><span style="font-size:18px;"><strong>Marietta Invitational</strong></span></span></p>
+
+<p dir="ltr"><span style="font-family:helvetica,arial,verdana,sans-serif;"><span style="font-size:16px;">October 29th, 2016</span></span></p>
+
+<p dir="ltr"><span style="font-family:helvetica,arial,verdana,sans-serif;"><span style="font-size:16px;"><img src="http://os_extranet_images.s3.amazonaws.com/423250_original.jpg" style="border-width: 0px; border-style: solid; height: 309px; width: 550px; margin: 8px; float: left;" />Surrounded by beautiful fall weather with temperatures in the 70&rsquo;s this regattas was a great new race for the spartan team to partake in. The regatta was composed of two separate components. The race began with a 6k head race and was followed by three 500 meter sprints. In the men&rsquo;s races there was a timing malfunction in the eights in the 600 meter piece and those results were negated. Instead the Chase regatta winner was determined by the boat&rsquo;s total time in the three sprints.</span></span></p>
+
+<p dir="ltr"><br />
+<span style="font-family:helvetica,arial,verdana,sans-serif;"><span style="font-size:16px;">For the 6000 meter piece the men&rsquo;s varsity boat placed 3rd in their line up with a time of 23:07. The women&rsquo;s varsity eight boat came in fourth just one second behind Ohio state with a time of 25:04 in the 6k race and the novice eight boat came 6th racing in the varsity category. In the sprints the men&rsquo;s varsity eight boat came in 5th with a best time of 1:24.1 just a few seconds behind Ohio State. On the women&rsquo;s side the varsity eight won two out of the three 500 meter pieces. It was a very nice regatta overall and the team hopes to attend again in the future!<b> </b></span></span></p>
+
+<p dir="ltr"><span style="font-family:helvetica,arial,verdana,sans-serif;"><span style="font-size:16px;">Race results for the Marietta Invitational can be found <a href="http://www.spartanalumnirowing.org/results/2016MariettaInvite.pdf">HERE</a>.<br />
+<a href="http://www.spartanalumnirowing.org/pics/gallery/main.php?g2_itemId=56717">2016 Marietta Invitational Photo Gallery</a></span></span></p>
+
+<p><span style="font-family:helvetica,arial,verdana,sans-serif;"><strong><span style="font-size:18px;">Head of the Charles</span></strong></span></p>
+
+<p><span style="font-family:helvetica,arial,verdana,sans-serif;"><span style="font-size:16px;">October 22nd, 2016</span></span></p>
+
+<p><span style="font-family:helvetica,arial,verdana,sans-serif;"><span style="font-size:16px;"><img src="http://os_extranet_images.s3.amazonaws.com/423248_original.jpg" style="width: 500px; border-width: 0px; border-style: solid; margin: 8px; float: left; height: 333px;" /></span></span></p>
+
+<p><span style="font-family:helvetica,arial,verdana,sans-serif;"><span style="font-size:16px;">Our women&rsquo;s varsity four, consisting of Abby Sevier, Stephanie Merlino, Emily Schnittman, and Colleen Kennedy (from stroke to bow) and coxed by Josh Zuccala, made waves as the fastest club team in their event at this year&rsquo;s Head of the Charles Regatta. They competed in the Women&rsquo;s Club 4+ race, finishing 19 out of 59. This top 20 finish was 12 places higher than last year&rsquo;s performance and re-qualified the boat to compete next year. The blistery conditions were no issue for our Lake Erie conditioned rowers, and the curves of the Cuyahoga helped coxswain Zuccala steer a superior course, causing our women to maintain their rank throughout each of the four course checkpoints.</span></span></p>
+
+<p>&nbsp;</p>
+
+<p><span style="font-family:helvetica,arial,verdana,sans-serif;"><span style="font-size:16px;">Race results for the Head of the Charles can be found <a href="http://www.spartanalumnirowing.org/results/SARA_charles16.html">HERE</a>.<br />
+<a href="http://www.spartanalumnirowing.org/pics/gallery/main.php?g2_itemId=56648">2016 Head of the Charles Photo Gallery</a></span></span></p>
+</div>
+</div>
+</div>
+
+<div class="col-lg-12">
+<div class="row">
+<div class="news-item">
+<h3><span style="font-family:helvetica,arial,verdana,sans-serif;"><meta charset="utf-8" /></span></h3>
+
+<p dir="ltr"><span style="font-family:helvetica,arial,verdana,sans-serif;"><span style="font-size:18px;"><b id="docs-internal-guid-1281a528-6b75-99bd-38a5-7a5cdbd75ad3">Mercyhurst</b></span></span></p>
+
+<p dir="ltr"><span style="font-family:helvetica,arial,verdana,sans-serif;"><span style="font-size:16px;">October 8th, 2016</span></span></p>
+
+<p dir="ltr"><span style="font-family:helvetica,arial,verdana,sans-serif;"><span style="font-size:16px;"><img src="http://os_extranet_images.s3.amazonaws.com/423246_original.jpg" style="height: 422px; width: 600px; border-width: 0px; border-style: solid; margin: 8px 10px; float: right;" />In early October, <a href="https://sites.google.com/a/case.edu/rowing/home">Case Crew</a> participated in an informal scrimmage against <a href="http://hurstathletics.com/index.aspx?path=mrowing">Mercyhurst College</a> and <a href="http://www.gogriffs.com/SportSelect.dbml?SPID=91695">Canisius College</a> on Findley Lake, just east of Erie, Pennsylvania. The schedule featured a 5k race on a looped course around the lake followed up by a 500m sprint. Final rankings were calculated by multiplying the sprint time by five and adding it to the 5k time. Case competed in five of the eight events offered. The day proved to be an eyeopener for the predominantly young Case Crew and provided the team with a taste of the next level of competition. Leaving hungry left the crew with even greater motivation to train hard for the next time we see Mercyhurst and Canisius at the start line.</span></span></p>
+&nbsp;
+
+<p dir="ltr"><span style="font-family:helvetica,arial,verdana,sans-serif;"><span style="font-size:16px;">In the men&#39;s races, the varsity and JV eights both finished behind the two entries from Mercyhurst. The women&#39;s varsity 8+ finished fourth behind Mercyhurst and the two Canisius entries; however, they finished ahead of the Mercyhurst B entry by 1.5 minutes. The top women&#39;s 4+ finished third overall behind Mercyhurst and Canisius in a 8-boat event. &nbsp;The women&#39;s novice 8+ event was an all-Case affair with two entries. The &quot;A&quot; entry with a little more experience finished ahead of the Case B entry filled with true novices who put up a solid effort despite having only a few weeks worth of experience on the water.</span></span></p>
+
+<p dir="ltr"><span style="font-family:helvetica,arial,verdana,sans-serif;"><span style="font-size:16px;">Written by Doug Rathburn&nbsp;(edited by Maria Tompkins and Kaitlyn Bush)</span></span></p>
+
+<p dir="ltr"><span style="font-family:helvetica,arial,verdana,sans-serif;"><span style="font-size:16px;">Results from the Mercyhurst Regatta can be found&nbsp;<a href="http://www.spartanalumnirowing.org/results/SARA_MercyhurstInvite16.html">HERE</a>.</span></span></p>
+
+<p dir="ltr"><span style="font-family:helvetica,arial,verdana,sans-serif;"><span style="font-size:16px;"><a href="http://www.spartanalumnirowing.org/pics/gallery/main.php?g2_itemId=56517">2016 Mercyhurst Gallery</a></span></span></p>
+
+<p>&nbsp;</p>
+
+<p><span style="font-family:helvetica,arial,verdana,sans-serif;"><strong><span style="font-size:18px;">Head of the Cuyahoga</span></strong></span></p>
+
+<p><span style="font-family:helvetica,arial,verdana,sans-serif;"><span style="font-size:16px;"><span class="timestamp">September 17th, 2016 </span></span></span></p>
+
+<p><span style="font-family:helvetica,arial,verdana,sans-serif;"><img src="http://os_extranet_images.s3.amazonaws.com/423244_original.jpg" style="float: left; height: 300px; width: 516px; border-width: 0px; border-style: solid; margin: 8px 30px;" /><img src="http://os_extranet_images.s3.amazonaws.com/423245_original.jpg" style="border-width: 0px; border-style: solid; height: 300px; width: 453px; float: left; margin: 8px 30px;" /><span style="font-size: 16px;">Incoming thunderstorms did not scare away the Case Crew Spartans at this regatta. Impressive times came in across the board in all categories that Case raced in on Saturday morning. This regatta was held on our home 5k course along the Cuyahoga river contains categories for collegiate, open, high school and masters rowing.</span></span></p>
+</div>
+
+<p><span style="font-family:helvetica,arial,verdana,sans-serif;"><span style="font-size:16px;">Both the Men&rsquo;s and Women&rsquo;s varsity eights came in first place by more than one minute and thirty seconds ahead of their next competition. The Women&rsquo;s 4 came in with a time of 21:15 making them 10th out of 20. The Men fielded two fours which both ended with impressive times as well. The first four placed first with a time of 19:39 and the second four ended with a time of 20:36.</span></span></p>
+
+<p><span style="font-family:helvetica,arial,verdana,sans-serif;"><span style="font-size:16px;">The Men&rsquo;s Open 4x consisted of one alumnus (Rathburn) and three students (Ryu, Cronin &amp; Smith). Other alumni and friends raced in the women&rsquo;s master single events (Chris Sheridan, Patty Wolford &amp; Erynn Rathburn) while assistant coaches Rachel Stanley and Sharon Romilly took on the field in the women&#39;s pair. Overall it was a great first fall regatta and we can not wait for all the races we have to come. Thank you to all the alumni and parents that came out to support us!</span></span></p>
+</div>
+</div>
+
+<p>&nbsp;</p>
+
+<p><span style="font-family:helvetica,arial,verdana,sans-serif;"><span style="font-size:16px;"><b id="docs-internal-guid-dedf29c1-8614-a97c-1670-0c27fbe84c80">Home Schools Regatta</b></span></span></p>
+
+<p dir="ltr"><span style="font-family:helvetica,arial,verdana,sans-serif;"><span style="font-size:16px;">April 23rd 2016 </span></span></p>
+
+<p>&nbsp;</p>
+
+<p dir="ltr"><span style="font-family:helvetica,arial,verdana,sans-serif;"><span style="font-size:16px;">Case Crew hosted the regatta at Aurora Lake in Cleveland. This year the contenders were: Case Crew, Cleveland State University, John Carroll and the University of Toledo. This very successful regatta ended in Case continuing the streak and successfully winning the regatta for the 5th year in a row. The team won a total of 7 out of the total 8 points available. Both the Men&rsquo;s and Women&rsquo;s teams won their Varsity races, the Women&rsquo;s Varsity 8+ with a time of 7:03.7 and the Men&rsquo;s Varsity 8+ with a time of 6:21.3. Similarly, both the JV/Novice boats swept their categories with winning times in all the 4s as well as top places finishes in the 8s. The Women&rsquo;s JV/Novice 8+ came in with a first place time of 7:36.1 and the men&rsquo;s boat came in, a close second, with a time of 6:52.7. Alumni racing was also held at this event with an alumni/student mixed 8+ race held during the midpoint break.</span></span></p>
+
+<p dir="ltr">&nbsp;</p>
+
+<h3 dir="ltr"><span style="font-family:helvetica,arial,verdana,sans-serif;"><span style="font-size:16px;"><b id="docs-internal-guid-dedf29c1-8614-a97c-1670-0c27fbe84c80">Strong Showing for Case Crew at 2016 Lubbers Cup</b></span></span></h3>
+
+<p dir="ltr"><span style="font-family:helvetica,arial,verdana,sans-serif;"><span style="font-size:16px;">posted 4/12/2016</span></span></p>
+
+<p>&nbsp;</p>
+
+<p dir="ltr"><span style="font-family:helvetica,arial,verdana,sans-serif;"><span style="font-size:16px;">Blustery winter conditions met Case Crew at their first-ever appearance at the <a href="https://lubberscup.com/">21st Annual Don Lubbers Cup</a> in Spring Lake, Michigan. The Lubbers Cup is a two-day round robin set of races hosted by <a href="http://www.grandvalleyrowing.com/newsite/home">Grand Valley State University</a>. The main players are the large, dominant club programs in Michigan and they invite a few other clubs to fill out the program. Based on Case&rsquo;s impressive performance last year at MACRAs and Vails, the team was extended an invite.</span></span></p>
+
+<p dir="ltr"><span style="font-family:helvetica,arial,verdana,sans-serif;"><span style="font-size:16px;"><b id="docs-internal-guid-dedf29c1-8614-a97c-1670-0c27fbe84c80"><img alt="Lubbers Cup 2016" height="511" src="https://lh3.googleusercontent.com/RKwzwJLvypGLNkSdMzq0jD74VkzMx1Jnjrm3ocs9lZeaghbdC_y_bYI_CSZOwNcvUiDP4vgwXfIg1aXpiZp_81Td8sBBMjLyZTQ-sOuvYw8y3ZW0lFThQPKD95gO61_1B9fQFH3P" width="528" /></b></span></span></p>
+
+<p dir="ltr"><span style="font-family:helvetica,arial,verdana,sans-serif;"><span style="font-size:16px;">Lindstrom, Warren, Nutt &amp; Saint Clair with cox Kabins and the Scott Cup for MN4+The weather was not favorable to rowing this weekend. Temperatures were in the 30&rsquo;s for all races and the wind was severe. Races during Saturday morning program were shortened to ~1300m after the varsity races. Then there was a long break, almost 6 hours, before the winds died down enough to hold eights races. Sunday morning saw the wind shift direction to a brutal 18-20mph cross headwind that proved difficult for rowers and coxswains. Sunday morning it also snowed sporadically making for fun viewing in near white out conditions for the varsity eights.</span></span></p>
+
+<p>&nbsp;</p>
+
+<p dir="ltr"><span style="font-family:helvetica,arial,verdana,sans-serif;"><span style="font-size:16px;">The team&rsquo;s best result came from the men&rsquo;s novice four that only got to race on Saturday morning over the shortened 1300m course. The event results for each boat class were determined by margin of victory. So if a crew won your race they received 0 points and those trailing were awarded a point for each second they were behind. Therefore, the winner was the crew with the lowest total of points across all of their races. The men&rsquo;s four handled the deteriorating conditions extremely well and beat the <a href="http://www.illinirowing.com/">University of Illinois</a> by 34 seconds and <a href="http://www.cincyrowing.org/">University of Cincinnati</a> by over a minute. The other two flights of the men&rsquo;s four on Saturday afternoon and Sunday morning were cancelled so these margins of victory stood and the crew brought home the Coach Jim and Chris Scott Cup!</span></span></p>
+
+<p>&nbsp;</p>
+
+<p dir="ltr"><span style="font-family:helvetica,arial,verdana,sans-serif;"><span style="font-size:16px;">The women&rsquo;s varsity 8+ had a strong showing winning their Saturday morning race against <a href="http://www.depaulrowing.org/">DePaul</a> and Illinois in convincing fashion of a shortened course. In their second flight Saturday afternoon they were paired up with Grand Valley and <a href="http://web.ics.purdue.edu/~pucrew/crew/">Purdue</a> who were ranked as the 1st and 3rd best 8&rsquo;s in the country going into racing. The crew didn&rsquo;t quite have the juice to hang onto these crews, but they did hang on! On Sunday morning it was a similar story with the women&rsquo;s V8 racing against varsity programs <a href="http://godrakebulldogs.com/index.aspx?path=row&amp;">Drake</a> and <a href="http://www.rmucolonials.com/index.aspx?path=row">Robert Morris</a>. Case led RMU into the 1000m mark, but just could not hang on to the speed with the incredible headwinds to finish third.</span></span></p>
+
+<p dir="ltr">&nbsp;</p>
+
+<p dir="ltr"><span style="font-family:helvetica,arial,verdana,sans-serif;"><span style="font-size:16px;">The men&rsquo;s varsity 8&rsquo;s came on the wrong side of a couple close races. In the first flight of the weekend they were 3 seconds off Illinois and one second off DePaul. They had a second shot at Illinois in the second race and came up a couple inches short. You can see the finish line photo <a href="http://www.spartanalumnirowing.org/pics/gallery/main.php?g2_itemId=54289">HERE</a>. The MV8 saved their best race for last finishing only 5 seconds off <a href="http://www.ndmensrowing.com/">Notre Dame</a> and well ahead of <a href="http://msucrewclub.com/">Michigan State</a>.</span></span></p>
+
+<p>&nbsp;</p>
+
+<p dir="ltr"><span style="font-family:helvetica,arial,verdana,sans-serif;"><span style="font-size:16px;">The JV eights for both men and women were a bit mixed. In each race on the men&rsquo;s and women&rsquo;s sides the JV squads finished off the pace. The depth of the other programs was just a bit too strong, and our second boats didn&rsquo;t handle the rough conditions as well as the top eights. As the coaches finalize the line ups going into the MACRA and Dad Vail championships having some race experience in tough conditions will help those trying to grab a seat in the top eights.</span></span></p>
+
+<p dir="ltr"><span style="font-family:helvetica,arial,verdana,sans-serif;"><span style="font-size:16px;"><b id="docs-internal-guid-dedf29c1-8614-a97c-1670-0c27fbe84c80"><img alt="Lubbers 2016" height="209" src="https://lh5.googleusercontent.com/e3Prnh2EvzAqTupr31OVbXevQeb9m4aeWjPw3GmPri_VhPvjY4u_-2SX-6tzlC3FXEm5BKX9oB8j_dmmBnlUcCoszHevKXpH1amSmK4neYkhH9iaclXSj0whuQgeCFqzM_sOuOFJ" width="624" /></b>Team photo at the 21st annual Don Lubbers Cup in Spring Lake, Michigan.</span></span></p>
+
+<p dir="ltr"><span style="font-family:helvetica,arial,verdana,sans-serif;"><span style="font-size:16px;">Race results for the Lubbers Cup can be found <a href="http://www.spartanalumnirowing.org/results/SARA_Lubbers16.html">HERE</a>.</span></span></p>
+
+<p dir="ltr"><span style="font-family:helvetica,arial,verdana,sans-serif;"><span style="font-size:16px;"><a href="http://www.spartanalumnirowing.org/pics/gallery/main.php?g2_itemId=54284">2016 Lubbers Cup Photo Gallery</a></span></span></p>
+
+<p>&nbsp;</p>
+
+<p dir="ltr"><span style="font-family:helvetica,arial,verdana,sans-serif;"><span style="font-size:16px;">Article by Case Alumni Doug Rathburn</span></span></p>
+
+<p dir="ltr"><span style="font-family:helvetica,arial,verdana,sans-serif;"><span style="font-size:16px;">Edited by Philip Smith</span></span></p>
+
+<h3 dir="ltr"><span style="font-family:helvetica,arial,verdana,sans-serif;"><span style="font-size:16px;"><b id="docs-internal-guid-dedf29c1-8614-a97c-1670-0c27fbe84c80">URA Championships</b></span></span></h3>
+
+<p dir="ltr"><span style="font-family:helvetica,arial,verdana,sans-serif;"><span style="font-size:16px;">posted 4/2/2016</span></span></p>
+
+<p>&nbsp;</p>
+
+<p dir="ltr"><span style="font-family:helvetica,arial,verdana,sans-serif;"><span style="font-size:16px;">It&nbsp;was a long and windy day of racing in Indianapolis, Indiana but for the first time in CWRU history Case Crew walked away with both the men and women&#39;s team points trophies at the URA Championship regatta.</span></span></p>
+
+<p>&nbsp;</p>
+
+<p dir="ltr"><span style="font-family:helvetica,arial,verdana,sans-serif;"><span style="font-size:16px;">The day started off rough with several clashes and Case being pushed off course in the Men&#39;s Varsity 8+. Although Case rowed a good race the Men&#39;s A boat was pushed too far off course to cross the finish line and Washington University walked away with the gold. Second and fourth in the MV8+ went to Case and Chicago took third.</span></span></p>
+
+<p>&nbsp;</p>
+
+<p dir="ltr"><span style="font-family:helvetica,arial,verdana,sans-serif;"><span style="font-size:16px;">After that it was a Spartan day with CWRU sweeping all remaining events except for the MJV4+. The MV4+ and M2+ were cancelled due to deteriorating conditions as the day went on. For full results <a href="http://www.row2k.com/results/resultspage.cfm?UID=11B28F2C41E14BE25BCF24B0612713DD&amp;cat=5#.VwCAA2grKUl">click here.</a></span></span></p>
+
+<p dir="ltr">&nbsp;</p>
+
+<p dir="ltr"><span style="font-family:helvetica,arial,verdana,sans-serif;"><span style="font-size:16px;"><b id="docs-internal-guid-dedf29c1-8614-a97c-1670-0c27fbe84c80"><img src="https://lh5.googleusercontent.com/wjvQ42jEEgCcmnU3dMEad_ObEsk8eDpy8Shpx4-WLPfBGDxQifyJw5Gf7IxkwbQWqwQp_dUpcePt0BGiDgp_y45cf1UPKAY67MkI4DMG79oWQ-sLn8T_zDOPMuZVNOOgcNDyqN5r" style="width: 450px; height: 299px; float: left; border-width: 5px; border-style: solid; margin: 8px;" /> <img src="https://lh3.googleusercontent.com/3j6QRgfwJwShXeZn1HB_hemArL_jb9a-t4tcUkMO6Ds5ajWFk-xbj99sAJUNfZi7Ic_U7b82SNqEt0JfozxQZ-fojy9LEE9U9DsktBQXizbUUUT1CX7prm0nLb2ABLZ8-JD1ioim" style="width: 450px; height: 299px; border-width: 5px; border-style: solid; margin: 8px; float: right;" /></b></span></span></p>
+
+<p dir="ltr">&nbsp;</p>
+
+<p dir="ltr">&nbsp;</p>
+
+<p dir="ltr">&nbsp;</p>
+
+<p dir="ltr">&nbsp;</p>
+
+<p dir="ltr">&nbsp;</p>
+
+<p dir="ltr">&nbsp;</p>
+
+<p dir="ltr">&nbsp;</p>
+
+<p dir="ltr">&nbsp;</p>
+
+<p dir="ltr"><span style="font-family:helvetica,arial,verdana,sans-serif;"><span style="font-size:16px;">Case Crew Men and Women&#39;s teams with the Case Alumni and Chicago Alumni points trophies</span></span></p>
+
+<h3 dir="ltr">&nbsp;</h3>
+
+<h3 dir="ltr"><span style="font-family:helvetica,arial,verdana,sans-serif;"><span style="font-size:16px;"><b id="docs-internal-guid-dedf29c1-8614-a97c-1670-0c27fbe84c80">New Website!</b></span></span></h3>
+
+<p dir="ltr"><span style="font-family:helvetica,arial,verdana,sans-serif;"><span style="font-size:16px;">posted 3/23/2016</span></span></p>
+
+<p dir="ltr"><span style="font-family:helvetica,arial,verdana,sans-serif;"><span style="font-size:16px;"><b id="docs-internal-guid-dedf29c1-8614-a97c-1670-0c27fbe84c80"><img src="https://lh4.googleusercontent.com/fA9ULZ6QKJYVR0NjJwcZc0SXf4OBOPa0vrMUAcBjaFoHVcC1Fy4EMVEcFH38l4YvW5nyJGUNElyj3R5xIPVx4z1FzBSxPCc4x4cVFWO-o-LUZghgMZwCs2HID52k3t6qpFsTOT9q" style="width: 624px; height: 313px; border-width: 5px; border-style: solid; margin: 8px;" /></b></span></span></p>
+
+<p dir="ltr"><span style="font-family:helvetica,arial,verdana,sans-serif;"><span style="font-size:16px;">After a lot of work, and many different trials the CWRU Rowing website has found a new home. Please look around and if you have any feedback feel free to contact Philip Smith at pas147@case.edu</span></span></p>
+
+<h3 dir="ltr"><span style="font-family:helvetica,arial,verdana,sans-serif;"><span style="font-size:16px;"><b id="docs-internal-guid-dedf29c1-8614-a97c-1670-0c27fbe84c80">CWRU Crew Dominates the Hammer</b></span></span></h3>
+
+<p dir="ltr"><span style="font-family:helvetica,arial,verdana,sans-serif;"><span style="font-size:16px;">posted 3/23/2016</span></span></p>
+
+<p dir="ltr"><span style="font-family:helvetica,arial,verdana,sans-serif;"><span style="font-size:16px;"><b id="docs-internal-guid-dedf29c1-8614-a97c-1670-0c27fbe84c80"><img src="https://lh6.googleusercontent.com/s7J1dzX8dyt7_rc3azfTbCYtB-hdFdZ1di2kcJzTLg-3eElzu51Jn_-Pfqh8wMSpiDAxt_erp43Yoe1i5s8UmEPeRjrvPMUPNMak6MN5zQm7VUvXnLN3WeTshR8Cf3j31TL25xjj" style="width: 533px; height: 355px; float: left; border-width: 5px; border-style: solid; margin: 8px;" /></b></span></span></p>
+
+<p dir="ltr"><span style="font-family:helvetica,arial,verdana,sans-serif;"><span style="font-size:16px;">Case Crew set the bar high for Cleveland colleges during the 27th edition of the Hammer Ergatta. This year&#39;s results build upon a strong program instituted by head coach Aaron Marcovy and saw the team bring home the Hammer Cup for the 2nd straight year.</span></span></p>
+
+<p>&nbsp;</p>
+
+<p dir="ltr"><span style="font-family:helvetica,arial,verdana,sans-serif;"><span style="font-size:16px;">The Hammer Cup has been contested between Case and John Carroll since 1995 with Cleveland State joining the action in 2008. Case leads the series with twelve wins to JCU&#39;s 8 and CSU&#39;s 2 wins.</span></span></p>
+
+<p dir="ltr"><span style="font-family:helvetica,arial,verdana,sans-serif;"><span style="font-size:16px;">This year&#39;s event was held in the Student Recreation Center on Cleveland State&#39;s campus. The well organized event saw Case take home Hammers (yes, actual hammers) in almost every event they entered. The women&#39;s team had 7 athletes break 8 minutes with Abby Sevier breaking 7:20! In fact, the Open Women took 5 of the top 6 slots, the Novice Women took three of the top four and the novice lightweights took all three top slots. The second fastest woman was Joyce Chu in the novice event pulling a 7:37.1 who just learned to row on the erg a couple months ago!</span></span></p>
+
+<p dir="ltr"><span style="font-family:helvetica,arial,verdana,sans-serif;"><span style="font-size:16px;">The men&#39;s team also showed speed and depth. The men had ten athletes break seven minutes with junior Liam Hoye leading the way with a 6:21.5 to win the Open Men&#39;s category. The Case men took all top 5 slots in the Open category. The novice men&#39;s category has Case taking all three top slots with Freshman Ryan Norchi taking the golden hammer in 6:44.0. The lightweight team shows some promise with the novices taking all 6 top spots with Wyatt SaintClair winning in 7:05.4. Take a look at <a href="http://www.spartanalumnirowing.org/results/SARA_hammer.html">20 years of Hammer results</a> to see just how fast and deep this squad is.</span></span></p>
+
+<p dir="ltr"><span style="font-family:helvetica,arial,verdana,sans-serif;"><span style="font-size:16px;">The last event of the day was the Sledgehammer 6x500m mixed relay. The official results show Case in 2nd, 4th and 9th, but the winning squad was all men while every other team was mixed. The top two teams were varsity Case squads and the third team were novices. The fastest Case relay team completed the 3km in 9:41.7 to take home the silver sledgehammer.</span></span></p>
+
+<p dir="ltr"><span style="font-family:helvetica,arial,verdana,sans-serif;"><span style="font-size:16px;">Check out the photos and more on our alumni website <a href="http://www.spartanalumnirowing.org/pics/gallery/main.php?g2_itemId=52311">here</a>.</span></span></p>
+
+<p dir="ltr"><span style="font-family:helvetica,arial,verdana,sans-serif;"><span style="font-size:16px;">Article by Case Alumni Doug Rathburn</span></span></p>
+
+<p dir="ltr"><span style="font-family:helvetica,arial,verdana,sans-serif;"><span style="font-size:16px;">Edited by Philip Smith</span></span></p>
+</div>
+</section>
+</div>
