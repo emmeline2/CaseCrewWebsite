@@ -1,0 +1,352 @@
+.pre-footer {
+	background-color: #5f5f5f;
+    padding: 24px 0;
+}
+
+footer.page {
+	background-color: #1f1f1f;
+    height: 160px;
+    padding-top: 105px;
+}
+
+.content-pane {
+	min-height: 500px;
+	background-color: #fff;
+}
+
+.col-centered {
+  float: none;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.small-header {
+    position: relative;
+    width: 100%;
+    min-height: 400px;
+    text-align: center;
+    color: #fff;
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+#about-header {
+    background:linear-gradient(
+      rgba(0, 0, 0, 0.3), 
+      rgba(0, 0, 0, 0.3)
+	), url(http://os_extranet_images.s3.amazonaws.com/400157_original.jpg);
+    background-position: top;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+#alumni-header {
+    background:linear-gradient(
+      rgba(0, 0, 0, 0.3), 
+      rgba(0, 0, 0, 0.3)
+	), url(http://os_extranet_images.s3.amazonaws.com/392638_original.jpg);
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+#join-header {
+    background:linear-gradient(
+      rgba(0, 0, 0, 0.3), 
+      rgba(0, 0, 0, 0.3)
+	), url(http://www.spartanalumnirowing.org/pics/gallery/main.php?g2_view=core.DownloadItem&g2_itemId=59497&g2_serialNumber=2);
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+#schedule-header {
+    background:linear-gradient(
+      rgba(0, 0, 0, 0.2), 
+      rgba(0, 0, 0, 0.2)
+	), url(http://os_extranet_images.s3.amazonaws.com/448167_original.jpg);
+    background-position:bottom;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+#news-header {
+    background-image: url(http://os_extranet_images.s3.amazonaws.com/448102_original.jpg);
+}
+
+#archive-header {
+    background-image: url(http://os_extranet_images.s3.amazonaws.com/392634_original.jpg);
+}
+
+#gallery-header {
+    background:linear-gradient(
+      rgba(0, 0, 0, 0.3), 
+      rgba(0, 0, 0, 0.3)
+	), url(http://os_extranet_images.s3.amazonaws.com/392669_original.jpg);
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.side-nav-list {
+	list-style-type: none;
+	padding-left: 0px;
+       z-index: 9999;
+}
+
+.side-nav-list li {
+	padding-bottom: 5px;
+}
+
+.side-nav-list li a{
+	color: rgba(26,26,26,.4);
+	font-size: 18px;
+}
+
+.side-nav-list li a:hover{
+	color: #000 !important;
+}
+
+.side-nav-item {
+	pointer-events: none;
+}
+
+.clickable {
+	pointer-events: auto;
+}
+
+a:link{
+	text-decoration: none;
+       color: #3d9991;
+}
+
+a:hover{
+	text-decoration: none;
+}
+
+a:visited{
+	text-decoration: none;
+       color: #551A8B;
+}
+
+a:active{
+	text-decoration: none;
+}
+
+.front-page-box {
+	padding-bottom: 40px;
+}
+
+.schedule-thumbnail {
+	width: 300px;
+	height: 200px;	
+	z-index: 2;
+}
+
+.schedule-item {
+	margin-bottom: 20px;
+}
+
+.schedule-item-detail {
+	color: rgba(26,26,26,.7);
+}
+
+.schedule-item-title {
+	padding-top: 0px;
+	margin-top: 0px;
+}
+
+.date-overlay {
+	position: relative;
+	top: -200px;
+	left: 200px;
+	z-index: 3;
+}
+
+.roster-table {
+	border-collapse: collapse;
+	table-layout: fixed;
+}
+
+.roster-table th, td {
+	text-align: left;
+	padding: 0px;
+	overflow: hidden;
+}
+
+.roster-table tr:nth-child(even) {
+	background-color: #f2f2f2;
+}
+
+.roster-table .name {
+	width: 400px;
+}
+
+.roster-table .year {
+	width: 100px;
+}
+.roster-table .hometown {
+	width: 300px;
+}
+.roster-table .major {
+	width: 600px;
+}
+
+.roster-table .officer-position {
+	width: 400px;
+}
+
+.roster-table .officer-name {
+	width: 500px;
+}
+
+.roster-table .officer-email {
+	width: 600px;
+}
+
+a.main-button {
+	color: #FFFFFF;
+}
+
+.gal-carousel img{
+	margin: auto;
+	width: auto;
+	height: 400px;
+	max-height: 750px;
+}
+
+.carousel-pointers {
+	background-color: #FFF;
+	background-image: none !important;
+}
+
+.vid-container iframe{
+	width: 100%;
+}
+
+.map-container iframe {
+	width: 100%;
+}
+
+.img-container img {
+	width: 100%;
+}
+
+.news-double-image img{
+    width: 100%;
+    vertical-align:top;
+}
+
+@media(min-width:976px) {
+	.album-header {
+	    margin-left:100px;
+	}
+}
+
+@media (min-width: 1183px) {
+	.img-container img {
+		width: 350px;
+	}
+	.album-header {
+	    margin-left:200px;
+	}
+}
+@media(min-width:560px) {
+	.vid-container {
+		width: 560px;
+		height: 315px;
+	}
+}
+@media(min-width: 600px) {
+	.map-container {
+		width: 600px;
+		height: 450px;
+	}
+}
+@media(min-width:700px) {
+       .news-double-image img{
+            width: 48%;
+       }
+}
+
+.btn:visited {
+    color:#FFF;
+}
+
+blockquote p{
+    font-family:'playfair display','Times New Roman',Merriweather,'Helvetica Neue',Arial,sans-serif;
+}
+
+section#news{
+    padding-top:50px;
+}
+
+.news-image-left {
+    float:left;
+    width:100%;
+}
+
+.news-image-right {
+    float:right;
+    width:100%;
+}
+
+.news-image-center {
+    display: block;
+    width:100%;
+    margin:auto;
+    text-align:center;
+}
+
+figure figcaption {
+    text-align: center;
+}
+
+figcaption.left {
+    float:left;
+    clear:left;
+}
+
+figcaption.right {
+    float:right;
+    clear:right;
+}
+
+figure {
+    padding-bottom:10px;
+}
+
+@media(min-width:390px) {
+       .news-image-left {
+            width: 350px;
+            padding-right:20px;
+       }
+       .news-image-right{
+            width:350px;
+            padding-left:20px;
+       }
+       figcaption.left, figcaption.right {
+            width:330px;
+       }
+}
+
+#home {
+	padding-top:50px;
+}
+
+section#join {
+       padding-top: 20px;
+}
